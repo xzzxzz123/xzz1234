@@ -36,6 +36,7 @@ random_state=42（随机种子）
 - 纵轴：数量
  
 ### 4.2 特征重要性分析
+![image](https://github.com/user-attachments/assets/0019c0bf-589d-4fe4-98da-bf2727f02632)
 - 显示各特征对南瓜品种预测的重要性排序
 - 关键特征包括：产地(Origin)、大小(Item Size)、包装(Package)等
 - 横轴：特征名称
